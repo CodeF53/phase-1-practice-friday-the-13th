@@ -19,7 +19,7 @@ function img_element(link) {
     let element = document.createElement("img")
     element.setAttribute("src", link)
     return element
-}
+}   
 
 // Generalized Fetch Function
 function general_fetch(url) {

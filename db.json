@@ -42,8 +42,8 @@
       "release_year": 1985,
       "description": "Homicidal maniac Jason returns from the grave to cause more bloody mayhem. Young Tommy may have escaped from Crystal Lake, but he’s still haunted by the gruesome events that happened there. When gory murders start happening at the secluded halfway house for troubled teens where he now lives, it seems like his nightmarish nemesis, Jason, is back for more sadistic slaughters.",
       "image": "./assets/f13-newbeginning.jpeg",
-      "watched": false,
-      "blood_amount": 0
+      "watched": true,
+      "blood_amount": 1100
     },
     {
       "id": 6,
